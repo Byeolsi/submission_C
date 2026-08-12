@@ -1,0 +1,571 @@
+[ {
+  "id" : "DEAL-020",
+  "assetType" : "VENTURE_CAPITAL",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 50.7,
+    "confidence" : 0.88,
+    "source" : "Gemini AI (Mocked)",
+    "lineage" : [ {
+      "modifiedBy" : "System Normalizer",
+      "timestamp" : "2026-08-12T14:28:38.187740900Z",
+      "reason" : "Conflict detected with FinancialModel value: 55.7",
+      "previousValue" : 50.7
+    }, {
+      "modifiedBy" : "Gemini AI (Mocked)",
+      "timestamp" : "2026-08-12T14:28:38.188742200Z",
+      "reason" : "Resolved conflict by prioritizing FinancialModel. Quote: Found exact match in FinancialModel",
+      "previousValue" : 50.7
+    } ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-022",
+  "assetType" : "VENTURE_CAPITAL",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 75.4,
+    "confidence" : 0.88,
+    "source" : "Gemini AI (Mocked)",
+    "lineage" : [ {
+      "modifiedBy" : "System Normalizer",
+      "timestamp" : "2026-08-12T14:28:38.187740900Z",
+      "reason" : "Conflict detected with FinancialModel value: 80.4",
+      "previousValue" : 75.4
+    }, {
+      "modifiedBy" : "Gemini AI (Mocked)",
+      "timestamp" : "2026-08-12T14:28:38.188742200Z",
+      "reason" : "Resolved conflict by prioritizing FinancialModel. Quote: Found exact match in FinancialModel",
+      "previousValue" : 75.4
+    } ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "REJECTED"
+}, {
+  "id" : "DEAL-021",
+  "assetType" : "INFRASTRUCTURE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 56.3,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-009",
+  "assetType" : "REAL_ESTATE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 72.6,
+    "confidence" : 0.88,
+    "source" : "Gemini AI (Mocked)",
+    "lineage" : [ {
+      "modifiedBy" : "System Normalizer",
+      "timestamp" : "2026-08-12T14:28:38.188742200Z",
+      "reason" : "Conflict detected with FinancialModel value: 77.6",
+      "previousValue" : 72.6
+    }, {
+      "modifiedBy" : "Gemini AI (Mocked)",
+      "timestamp" : "2026-08-12T14:28:38.188742200Z",
+      "reason" : "Resolved conflict by prioritizing FinancialModel. Quote: Found exact match in FinancialModel",
+      "previousValue" : 72.6
+    } ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "REJECTED"
+}, {
+  "id" : "DEAL-028",
+  "assetType" : "PRIVATE_DEBT",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 62.9,
+    "confidence" : 0.88,
+    "source" : "Gemini AI (Mocked)",
+    "lineage" : [ {
+      "modifiedBy" : "System Normalizer",
+      "timestamp" : "2026-08-12T14:28:38.188742200Z",
+      "reason" : "Conflict detected with FinancialModel value: 67.9",
+      "previousValue" : 62.9
+    }, {
+      "modifiedBy" : "Gemini AI (Mocked)",
+      "timestamp" : "2026-08-12T14:28:38.188742200Z",
+      "reason" : "Resolved conflict by prioritizing FinancialModel. Quote: Found exact match in FinancialModel",
+      "previousValue" : 62.9
+    } ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-006",
+  "assetType" : "PRIVATE_DEBT",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 53.1,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-027",
+  "assetType" : "PRIVATE_DEBT",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 71.0,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "REJECTED"
+}, {
+  "id" : "DEAL-005",
+  "assetType" : "VENTURE_CAPITAL",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 51.8,
+    "confidence" : 0.88,
+    "source" : "Gemini AI (Mocked)",
+    "lineage" : [ {
+      "modifiedBy" : "System Normalizer",
+      "timestamp" : "2026-08-12T14:28:38.188742200Z",
+      "reason" : "Conflict detected with FinancialModel value: 56.8",
+      "previousValue" : 51.8
+    }, {
+      "modifiedBy" : "Gemini AI (Mocked)",
+      "timestamp" : "2026-08-12T14:28:38.188742200Z",
+      "reason" : "Resolved conflict by prioritizing FinancialModel. Quote: Found exact match in FinancialModel",
+      "previousValue" : 51.8
+    } ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-008",
+  "assetType" : "INFRASTRUCTURE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 64.5,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-029",
+  "assetType" : "PRIVATE_DEBT",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 62.9,
+    "confidence" : 0.88,
+    "source" : "Gemini AI (Mocked)",
+    "lineage" : [ {
+      "modifiedBy" : "System Normalizer",
+      "timestamp" : "2026-08-12T14:28:38.188742200Z",
+      "reason" : "Conflict detected with FinancialModel value: 67.9",
+      "previousValue" : 62.9
+    }, {
+      "modifiedBy" : "Gemini AI (Mocked)",
+      "timestamp" : "2026-08-12T14:28:38.188742200Z",
+      "reason" : "Resolved conflict by prioritizing FinancialModel. Quote: Found exact match in FinancialModel",
+      "previousValue" : 62.9
+    } ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-007",
+  "assetType" : "VENTURE_CAPITAL",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 60.2,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-024",
+  "assetType" : "REAL_ESTATE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 67.2,
+    "confidence" : 1.0,
+    "source" : "FinancialModel (2026-08-02T15:30:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-002",
+  "assetType" : "PRIVATE_EQUITY",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 63.4,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-023",
+  "assetType" : "PRIVATE_DEBT",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 76.7,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "REJECTED"
+}, {
+  "id" : "DEAL-001",
+  "assetType" : "REAL_ESTATE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 70.4,
+    "confidence" : 1.0,
+    "source" : "FinancialModel (2026-08-02T15:30:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "REJECTED"
+}, {
+  "id" : "DEAL-026",
+  "assetType" : "INFRASTRUCTURE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 57.1,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-004",
+  "assetType" : "INFRASTRUCTURE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 66.7,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-025",
+  "assetType" : "VENTURE_CAPITAL",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 77.3,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "REJECTED"
+}, {
+  "id" : "DEAL-003",
+  "assetType" : "PRIVATE_DEBT",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 60.2,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-030",
+  "assetType" : "REAL_ESTATE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 56.6,
+    "confidence" : 1.0,
+    "source" : "FinancialModel (2026-08-02T15:30:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-011",
+  "assetType" : "REAL_ESTATE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 70.4,
+    "confidence" : 1.0,
+    "source" : "FinancialModel (2026-08-02T15:30:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "REJECTED"
+}, {
+  "id" : "DEAL-010",
+  "assetType" : "REAL_ESTATE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 70.3,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "REJECTED"
+}, {
+  "id" : "DEAL-017",
+  "assetType" : "REAL_ESTATE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 77.0,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "REJECTED"
+}, {
+  "id" : "DEAL-016",
+  "assetType" : "INFRASTRUCTURE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 61.4,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-019",
+  "assetType" : "PRIVATE_EQUITY",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 70.1,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "REJECTED"
+}, {
+  "id" : "DEAL-018",
+  "assetType" : "REAL_ESTATE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 58.5,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-013",
+  "assetType" : "PRIVATE_EQUITY",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 76.8,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "REJECTED"
+}, {
+  "id" : "DEAL-012",
+  "assetType" : "VENTURE_CAPITAL",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 74.3,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "REJECTED"
+}, {
+  "id" : "DEAL-015",
+  "assetType" : "VENTURE_CAPITAL",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 56.2,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+}, {
+  "id" : "DEAL-014",
+  "assetType" : "INFRASTRUCTURE",
+  "requestedAmount" : {
+    "value" : 0.0,
+    "confidence" : 1.0,
+    "source" : "Placeholder",
+    "lineage" : [ ]
+  },
+  "ltv" : {
+    "value" : 50.9,
+    "confidence" : 1.0,
+    "source" : "IM (2026-08-01T10:00:00Z)",
+    "lineage" : [ ]
+  },
+  "assetSpecificRisks" : { },
+  "status" : "APPROVED"
+} ]

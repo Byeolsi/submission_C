@@ -1,0 +1,621 @@
+[ {
+  "dealId" : "DEAL-001",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 70.4%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-001",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 65.4% else 75.4%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-001",
+  "docType" : "DueDiligence",
+  "content" : "LTV    65.3962860701949%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-002",
+  "docType" : "IM",
+  "content" : "Asset: VENTURE_CAPITAL. Requested Amount: 79199925.4천원. LTV is 54.7%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-002",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 54.7%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-002",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 54.7% else 64.7%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-002",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t54.747996298856066%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-003",
+  "docType" : "IM",
+  "content" : "Asset: INFRASTRUCTURE. Requested Amount: 940.3억. LTV is 63.0%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-003",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 63.0%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-003",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 63.0% else 73.0%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-003",
+  "docType" : "DueDiligence",
+  "content" : "LTV    62.98958659955661%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-004",
+  "docType" : "IM",
+  "content" : "Asset: PRIVATE_DEBT. Requested Amount: 280.6억. LTV is 51.4%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-004",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 51.4%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-004",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 51.4% else 61.4%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-004",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t51.420030770295426%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-004",
+  "docType" : "Email",
+  "content" : "Update: The requested amount has been adjusted.",
+  "timestamp" : "2026-08-05T09:00:00Z"
+}, {
+  "dealId" : "DEAL-005",
+  "docType" : "IM",
+  "content" : "Asset: REAL_ESTATE. Requested Amount: 236.3억. LTV is 53.4%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-005",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 53.4%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-005",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 53.4% else 63.4%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-005",
+  "docType" : "DueDiligence",
+  "content" : "LTV    53.43548746903579%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-006",
+  "docType" : "IM",
+  "content" : "Asset: VENTURE_CAPITAL. Requested Amount: 563.1억. LTV is 64.4%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-006",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 69.4%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-006",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 2026-08-03. Conditional LTV: If A then 64.4% else 74.4%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-006",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t64.39400882513792%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-007",
+  "docType" : "IM",
+  "content" : "Asset: REAL_ESTATE. Requested Amount: 777.0억. LTV is 52.3%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-007",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 52.3%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-007",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 52.3% else 62.3%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-007",
+  "docType" : "DueDiligence",
+  "content" : "LTV    52.32863759551131%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-007",
+  "docType" : "Email",
+  "content" : "Update: The requested amount has been adjusted.",
+  "timestamp" : "2026-08-05T09:00:00Z"
+}, {
+  "dealId" : "DEAL-008",
+  "docType" : "IM",
+  "content" : "Asset: INFRASTRUCTURE. Requested Amount: 366.1억. LTV is 70.1%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-008",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 75.1%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-008",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 2026-08-03. Conditional LTV: If A then 70.1% else 80.1%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-008",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t70.07993425519845%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-009",
+  "docType" : "IM",
+  "content" : "Asset: PRIVATE_DEBT. Requested Amount: 399.3억. LTV is 63.1%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-009",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 63.1%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-009",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 63.1% else 73.1%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-009",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t63.10132395502759%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-010",
+  "docType" : "IM",
+  "content" : "Asset: PRIVATE_DEBT. Requested Amount: 633.3억. LTV is 66.5%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-010",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 66.5%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-010",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 66.5% else 76.5%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-010",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t66.48850570350312%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-010",
+  "docType" : "Messenger",
+  "content" : "Hey, LTV is confirmed at 66.48850570350312%",
+  "timestamp" : "2026-08-06T18:00:00Z"
+}, {
+  "dealId" : "DEAL-011",
+  "docType" : "IM",
+  "content" : "Asset: PRIVATE_EQUITY. Requested Amount: 21611390.6천원. LTV is 68.8%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-011",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 68.8%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-011",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 68.8% else 78.8%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-011",
+  "docType" : "DueDiligence",
+  "content" : "LTV    68.80184247551868%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-012",
+  "docType" : "IM",
+  "content" : "Asset: REAL_ESTATE. Requested Amount: 529.6억. LTV is 51.3%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-012",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 51.3%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-012",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 51.3% else 61.3%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-012",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t51.28725667821864%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-013",
+  "docType" : "IM",
+  "content" : "Asset: VENTURE_CAPITAL. Requested Amount: 911.0억. LTV is 77.4%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-013",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 77.4%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-013",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 77.4% else 87.4%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-013",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t77.38451391231793%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-014",
+  "docType" : "IM",
+  "content" : "Asset: PRIVATE_DEBT. Requested Amount: 421.1억. LTV is 63.7%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-014",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 63.7%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-014",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 63.7% else 73.7%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-014",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t63.67821625305991%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-014",
+  "docType" : "Email",
+  "content" : "Update: The requested amount has been adjusted.",
+  "timestamp" : "2026-08-05T09:00:00Z"
+}, {
+  "dealId" : "DEAL-015",
+  "docType" : "IM",
+  "content" : "Asset: PRIVATE_DEBT. Requested Amount: 594.4억. LTV is 76.4%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-015",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 76.4%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-015",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 76.4% else 86.4%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-015",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t76.40185153243695%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-015",
+  "docType" : "Email",
+  "content" : "Update: The requested amount has been adjusted.",
+  "timestamp" : "2026-08-05T09:00:00Z"
+}, {
+  "dealId" : "DEAL-016",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 66.9%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-016",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 66.9% else 76.9%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-016",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t66.91202397422586%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-017",
+  "docType" : "IM",
+  "content" : "Asset: VENTURE_CAPITAL. Requested Amount: 846.1억. LTV is 65.7%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-017",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 65.7%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-017",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 2026-08-03. Conditional LTV: If A then 65.7% else 75.7%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-017",
+  "docType" : "DueDiligence",
+  "content" : "LTV    65.71413674029397%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-018",
+  "docType" : "IM",
+  "content" : "Asset: INFRASTRUCTURE. Requested Amount: 221.2억. LTV is 67.6%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-018",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 72.6%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-018",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 2026-08-03. Conditional LTV: If A then 67.6% else 77.6%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-018",
+  "docType" : "DueDiligence",
+  "content" : "LTV    67.5667158703414%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-018",
+  "docType" : "Messenger",
+  "content" : "Hey, LTV is confirmed at 67.5667158703414%",
+  "timestamp" : "2026-08-06T18:00:00Z"
+}, {
+  "dealId" : "DEAL-019",
+  "docType" : "IM",
+  "content" : "Asset: INFRASTRUCTURE. Requested Amount: 744.6억. LTV is 64.8%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-019",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 64.8%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-019",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 64.8% else 74.8%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-019",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t64.8166537523413%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-020",
+  "docType" : "IM",
+  "content" : "Asset: INFRASTRUCTURE. Requested Amount: 142.9억. LTV is 57.1%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-020",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 57.1%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-020",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 57.1% else 67.1%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-020",
+  "docType" : "DueDiligence",
+  "content" : "LTV    57.07575541569438%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-020",
+  "docType" : "Email",
+  "content" : "Update: The requested amount has been adjusted.",
+  "timestamp" : "2026-08-05T09:00:00Z"
+}, {
+  "dealId" : "DEAL-021",
+  "docType" : "IM",
+  "content" : "Asset: VENTURE_CAPITAL. Requested Amount: 592.7억. LTV is 78.2%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-021",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 78.2%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-021",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 2026-08-03. Conditional LTV: If A then 78.2% else 88.2%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-021",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t78.19107250478858%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-022",
+  "docType" : "IM",
+  "content" : "Asset: INFRASTRUCTURE. Requested Amount: 270.9억. LTV is 55.5%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-022",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 55.5%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-022",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 55.5% else 65.5%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-022",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t55.481023072507625%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-023",
+  "docType" : "IM",
+  "content" : "Asset: PRIVATE_DEBT. Requested Amount: 124.3억. LTV is 66.5%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-023",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 66.5%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-023",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 2026-08-03. Conditional LTV: If A then 66.5% else 76.5%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-023",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t66.49465391875968%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-024",
+  "docType" : "IM",
+  "content" : "Asset: VENTURE_CAPITAL. Requested Amount: 857.2억. LTV is 66.2%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-024",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 66.2%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-024",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 2026-08-03. Conditional LTV: If A then 66.2% else 76.2%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-024",
+  "docType" : "DueDiligence",
+  "content" : "LTV    66.17022961478459%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-025",
+  "docType" : "IM",
+  "content" : "Asset: PRIVATE_EQUITY. Requested Amount: 504.2억. LTV is 52.0%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-025",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 52.0%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-025",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 2026-08-03. Conditional LTV: If A then 52.0% else 62.0%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-025",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t51.96305087308851%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-026",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 61.7%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-026",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 61.7% else 71.7%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-026",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t61.65292959582558%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-027",
+  "docType" : "IM",
+  "content" : "Asset: PRIVATE_DEBT. Requested Amount: 680.0억. LTV is 72.0%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-027",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 77.0%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-027",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 72.0% else 82.0%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-027",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t72.03883122384707%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-028",
+  "docType" : "IM",
+  "content" : "Asset: REAL_ESTATE. Requested Amount: 591.2억. LTV is 56.8%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-028",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 56.8%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-028",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 56.8% else 66.8%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-028",
+  "docType" : "DueDiligence",
+  "content" : "LTV    56.825241943498526%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-029",
+  "docType" : "IM",
+  "content" : "Asset: VENTURE_CAPITAL. Requested Amount: 906.7억. LTV is 79.7%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-029",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 79.7%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-029",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 08/03/2026. Conditional LTV: If A then 79.7% else 89.7%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-029",
+  "docType" : "DueDiligence",
+  "content" : "LTV\t79.69502802154454%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+}, {
+  "dealId" : "DEAL-030",
+  "docType" : "IM",
+  "content" : "Asset: INFRASTRUCTURE. Requested Amount: 587.3억. LTV is 79.8%.",
+  "timestamp" : "2026-08-01T10:00:00Z"
+}, {
+  "dealId" : "DEAL-030",
+  "docType" : "FinancialModel",
+  "content" : "Calculated LTV: 79.8%.",
+  "timestamp" : "2026-08-02T15:30:00Z"
+}, {
+  "dealId" : "DEAL-030",
+  "docType" : "TermSheet",
+  "content" : "Term Sheet Date: 2026-08-03. Conditional LTV: If A then 79.8% else 89.8%.",
+  "timestamp" : "2026-08-03T10:00:00Z"
+}, {
+  "dealId" : "DEAL-030",
+  "docType" : "DueDiligence",
+  "content" : "LTV    79.84386112541122%",
+  "timestamp" : "2026-08-04T11:00:00Z"
+} ]

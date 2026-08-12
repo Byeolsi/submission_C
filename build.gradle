@@ -1,0 +1,41 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '3.4.1'
+    id 'io.spring.dependency-management' version '1.1.6'
+}
+
+group = 'com.noaats'
+version = '0.0.1-SNAPSHOT'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(21)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter'
+    // JSON processing
+    implementation 'com.fasterxml.jackson.core:jackson-databind'
+    // Gemini API might use standard HTTP clients, Spring Boot 3 has RestClient.
+    
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+// Assignment requires tests in "tests/" directory instead of "src/test/java"
+sourceSets {
+    test {
+        java {
+            srcDirs = ['tests']
+        }
+    }
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}
